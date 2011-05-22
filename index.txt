@@ -26,9 +26,26 @@
 	WEB, programming, travel, photo<br>
 	lang: php, obj pascal, c++
 </p>
+<h2>
+Проекты.
+</h2>
+<ul>
+	<li><a href="http://zerobyte.org.ua/">zerobyte.org.ua</a><br>
+		Старый глупый сайтик.
+	</li>
+	<li><a href="http://bodva.dp.ua/">bodva.dp.ua</a><br>
+		Тот самый блог.
+	</li>
+	<li><a href="http://zb-team.org.ua/">zb-team.org.ua</a><br>
+		Он обязательно заработает. Когда-нибудь.
+	</li>
+</ul>
+<!-- 
 <p align="center">
 <a href="http://fotki.yandex.ru/users/bodva00x/view/516420/"><img src="http://img-fotki.yandex.ru/get/5305/bodva00x.7/0_7e144_ea52436b_M.jpg" width="300" height="156" title="" alt="" border="1" style="margin-left:50px;margin-top:0px"/></a><br/>
 </a>
+</p>
+-->
 </td>
 <td>
 <a href="http://fotki.yandex.ru/users/bodva00x/view/516408/"><img src="http://img-fotki.yandex.ru/get/5009/bodva00x.7/0_7e138_44c6c390_M.jpg" width="226" height="300" title="" alt="" border="1" style="margin-left:180px;margin-top:0px"/></a><br>

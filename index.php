@@ -1,61 +1,51 @@
-<html>
+п»ї<html>
 <head>
 <title>BoDVa's Home Page</title>
 <link rel="stylesheet" type="text/css" href="style.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+<meta name="keywords" content="РС‰Р’РњС„, BoDVa, homepage, BoDVa homepage, BoDVa coder, coding, anime" />
+<meta name="description" content="BoDVa's home page" />
+<meta name='yandex-verification' content='6f90f75e874ca533' />  
 </head>
 <body>
-<a href="http://bodva.org.ua">
+<a href="http://bodva.dp.ua">
  <div  class="header">
-  BoDVa.org.ua
+  BoDVa.dp.ua
   </font>
  </div>
 </a>
 <div class="text">
   <div id="nav"> 
    <ul>
-    <li>
-	 <a href="http://blog.bodva.org.ua/">
-	  Мой Блог
+	<li>
+	 <a href="http://p.bodva.dp.ua/">
+	  РЎРѕР·РЅР°РЅРёРµ
 	 </a>
 	</li>
 	<li>
-	 <a href="index.php?action=bestsProg">
-	  Лучшие программы
+	 <a href="http://blog.bodva.dp.ua/">
+	  РњРѕР№ Р‘Р»РѕРі
 	 </a>
 	</li>
 	<li>
-	 <a href="index.php?action=aboutMe">
-	  Обо мне
-	 </a>
-	</li>
-	<li>
-	 <a href="index.php?action=index">
-	  Главная
+	 <a href="?action=index">
+	  Р“Р»Р°РІРЅР°СЏ
 	 </a>
 	</li>
    </ul>
   </div>
-  <p align="center"><br/>
+   <p align="left">
 	<?php
-		if (($action=="index") or (empty($action))) 
+		//if (($_GET['action']=="index") or (empty($_GET['action']))) 
 		{
 			include('index.txt');
 		}
-		if ($action=="aboutMe") 
-		{
-			include('aboutMe.txt');
-		}
-		if ($action=="bestsProg") 
-		{
-			include('bestPrograms.txt');
-		}		
 	?>
-  </p>
- 
+  </p> 
 </div>
 <div id="footer">
 <?php include('reclame.txt') ?>
 <br />
-(c) BoDVa 2007 </div>
+В© BoDVa 2007-<?php echo date('Y');?></div>
 </body>
 </html>

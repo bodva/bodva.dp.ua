@@ -1,7 +1,41 @@
-<br /><img src="bodvatar_.jpg">
-<br />
-     Меня зовут БОЙКО Дмитрий Вадимович. В интернете обитаю под ником BoDVa ( bo2 )
-     Моим увлечением является программирование и немного хакинг...
-	 На моей домашней страничке вы можете почитать информацию обо мне, и сравнить свои предпочтения в 
-	 программах, с моими...
-	 Спасибо за внимание.
+п»ї<h2>
+РљСЂР°С‚РєРѕ Рѕ РіР»Р°РІРЅРѕРј.<br>
+Р”РјРёС‚СЂРёР№ Р‘РѕР№РєРѕ.<br>
+</h2>
+<table border=0>
+<tr>
+<td valign="top">
+	<img src="bodvatar_.jpg" align="top" style="float:left" vspace="5" hspace="5">
+<p>
+	Twitter: <a href="http://twitter.com/bodva">@bodva</a><br>
+	Jabber: <a href="xmpp:bodva@jabber.ru">bodva@jabber.ru</a><br>
+	Р•mail: <a href="mailto:bodva00x@ya.ru">bodva00x@ya.ru</a><br>
+	Skype: <a href="skype:bodva00x">bodva00x</a><br>
+</p>
+<p><br>
+	<a href="http://fotki.yandex.ru/users/bodva00x">РЇ.Р¤РѕС‚Рѕ</a> <br>
+	<a href="http://vk.com/bodva">Р’РљРѕРЅС‚Р°РєС‚Рµ</a> <br>
+	<a href="http://facebook.com/bodva">facebook</a><br> 
+	<a href="http://juick.com/BoDVa/">Juick</a> <br>
+	<a href="http://bodva.habrahabr.ru/">habr</a><br><br>
+</p>
+<p>РЇ РЅР° <a href="http://www.kinopoisk.ru/level/79/user/1129672/">kinopoisk</a> Рё <a href="lastfm.ru/user/bodva">last.fm</a><br>
+	<a href="http://formspring.me/BoDVa">Р’РѕРїСЂРѕСЃС‹ РЅР° formspring</a><br>
+</p>
+<p>
+	WEB, programming, travel, photo<br>
+	lang: php, obj pascal, c++
+</p>
+<p align="center">
+<a href="http://fotki.yandex.ru/users/bodva00x/view/516420/"><img src="http://img-fotki.yandex.ru/get/5305/bodva00x.7/0_7e144_ea52436b_M.jpg" width="300" height="156" title="" alt="" border="1" style="margin-left:50px;margin-top:0px"/></a><br/>
+</a>
+</td>
+<td>
+<a href="http://fotki.yandex.ru/users/bodva00x/view/516408/"><img src="http://img-fotki.yandex.ru/get/5009/bodva00x.7/0_7e138_44c6c390_M.jpg" width="226" height="300" title="" alt="" border="1" style="margin-left:180px;margin-top:0px"/></a><br>
+<a href="http://fotki.yandex.ru/users/bodva00x/view/516410/"><img src="http://img-fotki.yandex.ru/get/5408/bodva00x.7/0_7e13a_ad8175b0_M.jpg" width="225" height="300" title="" alt="" border="1" style="margin-left:50px;margin-top:-260px"/></a><br>
+<a href="http://fotki.yandex.ru/users/bodva00x/view/516409/"><img src="http://img-fotki.yandex.ru/get/5806/bodva00x.7/0_7e139_52506a87_M.jpg" width="225" height="300" title="" alt="" border="1" style="margin-left:150px;margin-top:-120px"/></a><br>
+
+&nbsp;
+</td>
+</tr>
+</table>

@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^blog.bodva.org.ua$ [OR]
+RewriteCond %{HTTP_HOST} ^www.blog.bodva.org.ua$
+RewriteRule ^/?$ "http\:\/\/blog\.bodva\.dp\.ua\/" [R=301,L]
+

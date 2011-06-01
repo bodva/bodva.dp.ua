@@ -1,28 +1,7 @@
 ﻿<META NAME="webmoney.attestation.label" CONTENT="webmoney attestation label#504FF4D1-D512-431A-9091-9ED91658191B">
 <!-- begin WebMoney Transfer : attestation label --> 
 <a href="https://passport.webmoney.ru/asp/certview.asp?wmid=546387729563" target=_blank><IMG SRC="attestated1.gif" title="Здесь находится аттестат моего WM идентификатора 546387729563" border="0"></a>
-<!-- end WebMoney Transfer : attestation label -->                                                                                                                  
-<!--Rating@Mail.ru COUNTEr-->
-<script language="JavaScript" type="text/javascript"><!--
-d=document;var a='';a+=';r='+escape(d.referrer)
-js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
-a+=';j='+navigator.javaEnabled()
-js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
-s=screen;a+=';s='+s.width+'*'+s.height
-a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
-js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
-js=13//--></script><script language="JavaScript" type="text/javascript"><!--
-d.write('<a href="http://top.mail.ru/jump?from=1180254"'+
-' target=_top><img src="http://d2.c0.b2.a1.top.list.ru/counter'+
-'?id=1180254;t=130;js='+js+a+';rand='+Math.random()+
-'" alt="Рейтинг@Mail.ru"'+' border=0 height=40 width=88/><\/a>')
-if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
-target=_top href="http://top.mail.ru/jump?from=1180254"><img
-src="http://d2.c0.b2.a1.top.list.ru/counter?js=na;id=1180254;t=130"
-border=0 height=40 width=88
-alt="Рейтинг@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--
-if(11<js)d.write('--'+'>')//--></script>
-<!--/COUNTER-->
+<!-- end WebMoney Transfer : attestation label -->   
  <a href="http://whos.amung.us/show/giftgbgt"><img src="http://whos.amung.us/widget/giftgbgt.png" alt="web counter" width="81" height="29" border="0" /></a>
  <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -33,3 +12,6 @@ try {
 var pageTracker = _gat._getTracker("UA-9739583-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+<br>
+<a href="http://twitter.com/BoDVa" class="twitter-follow-button" data-show-count="false">Follow @BoDVa</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
